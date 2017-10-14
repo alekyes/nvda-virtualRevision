@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtual Review 2.2\n"
+"POT-Creation-Date: 2017-10-09 00:15+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alex Yeshanu <eshanuap@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../../../globalPlugins\n"
+"X-Poedit-SearchPath-0: virtualRevision.py\n"
+
+#: virtualRevision.py:81
+msgid "No title"
+msgstr "Нет заголовка"
+
+#: virtualRevision.py:83
+#, python-brace-format
+msgid "Virtual review: {screenName}"
+msgstr "Virtual review: {screenName}"
+
+#: virtualRevision.py:86
+msgid "No text to display"
+msgstr "Нет текста для отображения"
+
+#: virtualRevision.py:88
+msgid ""
+"Opens a window containing the text of the currently focused window for easy "
+"review."
+msgstr ""
+"Открывает окно, содержащее сфокусированный в настоящее время текст для "
+"удобного просмотра."
